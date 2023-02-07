@@ -7,4 +7,4 @@ The 3D data was edited to create a microscope that can observe the phenomenon of
 Conventional microscopes for observing magnetic domains are usually several million units. However, this microscope has made it possible at a cost of about 100,000 yen.
 At least, we have succeeded in reducing the cost by a factor of 10.
 
-Notice : 
+Notice : When you are printing "angle_part.stl". Please print facing horizontally. Because this part is very fragile when you print vertical. Of course, print with the support material attached.
