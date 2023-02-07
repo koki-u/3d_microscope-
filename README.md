@@ -1,10 +1,9 @@
-# 3d_microscope Under_construction
+# 3d_microscope 
+# Kerr micro-scope
 
-#卒業研究の内容
+# The original data is https://openflexure.org/
 
-#オリジナルは、https://openflexure.org/。
+# The 3D data was edited to create a microscope that can observe the phenomenon of magnetic domains, which is the principle of CDs.
 
-#3Dデータを編集して、CDの原理である<磁区>という現象を観察できる顕微鏡を作成した。
-
-従来の<磁区>を観察する顕微鏡は、数百万単位のものが多い。しかし、この顕微鏡により10万程で実現した。
-少なくとも、10分の1のコスト削減に成功している。
+# Conventional microscopes for observing magnetic domains are usually several million units. However, this microscope has made it possible at a cost of about 100,000 yen.
+At least, we have succeeded in reducing the cost by a factor of 10.
