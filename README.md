@@ -8,3 +8,5 @@ Conventional microscopes for observing magnetic domains are usually several mill
 At least, we have succeeded in reducing the cost by a factor of 10.
 
 Notice : When you are printing "angle_part.stl". Please print facing horizontally. Because this part is very fragile when you print vertical. Of course, print with the support material attached.
+
+[![DOI](https://zenodo.org/badge/521552714.svg)](https://zenodo.org/badge/latestdoi/521552714)
